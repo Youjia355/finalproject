@@ -20,5 +20,7 @@
 
 - [Instructions for BST260 projects,
   2026](https://youjia355.github.io/finalproject/articles/instructions.md):
+- [Project
+  proposal](https://youjia355.github.io/finalproject/articles/proposal.md):
 - [Stubs for BST260 projects,
   2026](https://youjia355.github.io/finalproject/articles/stubs.md):
