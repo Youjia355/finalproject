@@ -8,7 +8,7 @@
 data.frame
 }
 \usage{
-data(gunleg)
+gunleg
 }
 \description{
 data from RAND corporation on historical record of state legislatures actions on firearms control

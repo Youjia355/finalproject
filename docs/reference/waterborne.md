@@ -5,7 +5,7 @@ data from CDC on waterborne and foodborne illness events
 ## Usage
 
 ``` r
-data(waterborne)
+waterborne
 ```
 
 ## Format
@@ -20,7 +20,7 @@ Run the example to see metadata labels.
 ## Examples
 
 ``` r
-data("waterborne", package="bst260project")
+data("waterborne", package="finalproject")
 unique(unlist(lapply(waterborne, names)))
 #>  [1] ":id"                          ":version"                    
 #>  [3] ":created_at"                  ":updated_at"                 

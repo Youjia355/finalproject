@@ -8,7 +8,7 @@
 data.frame
 }
 \usage{
-data(cdcfiremort)
+cdcfiremort
 }
 \description{
 data from CDC on rates of mortality by firearm by state by year

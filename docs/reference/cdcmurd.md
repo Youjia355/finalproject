@@ -5,7 +5,7 @@ data from CDC on homicide rates by state by year
 ## Usage
 
 ``` r
-data(cdcmurd)
+cdcmurd
 ```
 
 ## Format

@@ -8,7 +8,7 @@
 data.frame
 }
 \usage{
-data(cdcmurd)
+cdcmurd
 }
 \description{
 data from CDC on homicide rates by state by year

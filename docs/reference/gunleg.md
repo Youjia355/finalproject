@@ -6,7 +6,7 @@ actions on firearms control
 ## Usage
 
 ``` r
-data(gunleg)
+gunleg
 ```
 
 ## Format

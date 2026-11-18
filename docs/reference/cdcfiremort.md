@@ -5,7 +5,7 @@ data from CDC on rates of mortality by firearm by state by year
 ## Usage
 
 ``` r
-data(cdcfiremort)
+cdcfiremort
 ```
 
 ## Format
